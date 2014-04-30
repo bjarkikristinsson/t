@@ -15,7 +15,7 @@ namespace Skjatexti.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Svaka skilaboð";
 
             return View();
         }
